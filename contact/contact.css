@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Exo|Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:700');
+body{
+    background-color: antiquewhite;
+}
+h2{
+    font-family: Ubuntu;
+    font-size:50px;
+    font-weight:200;
+    color:#1a1a1d;
+    text-align: center;
+}
+h1{
+    font-family: Ubuntu;
+    font-size: 100px;
+    text-align: center;
+}
+a{
+    color:  #c3073f;
+}
+img{
+    margin-left: 45%;
+    align-content: center;
+    height: 200px;
+    width: 200px;;
+}

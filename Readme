@@ -1,0 +1,8 @@
+Everyhing with DBDeatails must be linked with DB
+The Timeline in the trips page must have only set number of stops so needs hardcoded number of elements.
+Everything is either commented of correctly labelled
+!!!!! ISSUES !!!!!!!!
+The about page redirect is not working(FIx if u can. Njan kure nokki).
+The Source Destination Drop down in trip is not center aligned.(Veendum Kure Nokki).
+The data entry page css is not consistent
+!!!!!!!!!! The main page and data entry page are really good!!!!!!!!!!!!!
